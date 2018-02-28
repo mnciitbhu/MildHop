@@ -1,6 +1,6 @@
 # MildHop
 
-Made by: [maniotrix](https://github.com/maniotrix)
+Made by: [maniotrix](https://github.com/maniotrix) and [mnciitbhu](https://mnciitbhu.me/github)
 
 ## Contributing
 
